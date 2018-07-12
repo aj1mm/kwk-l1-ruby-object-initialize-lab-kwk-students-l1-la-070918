@@ -1,4 +1,4 @@
 # dog.rb
 class Dog
-  def initalize 
+  def initalize(name,breed")
   
